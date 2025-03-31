@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 554d24d (Setup working directory)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -172,3 +176,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
+=======
+=======
+/Dataset
+>>>>>>> ab41647 (Setup wroking directory)
+>>>>>>> 554d24d (Setup working directory)
