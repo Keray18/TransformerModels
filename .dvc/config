@@ -1,0 +1,7 @@
+[core]
+    remote = textsum
+['remote "textsum"']
+    url = gdrive://1Y3NraLAE8E4eDUc9KEMMZ7AWDl7yE_4_
+    gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = C:/Users/kesha/OneDrive/Documents/TextSummarizerKey/textsummarization-455411-0c69a96e2c7d.json
+    gdrive_service_account_user_email = textsummarization@textsummarization-455411.iam.gserviceaccount.com
