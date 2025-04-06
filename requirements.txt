@@ -1,9 +1,12 @@
 dvc[gdrive]
 pandas
+matplotlib
+seaborn
+nltk
 torch
 transformers
-nltk
-scikit-learn
+rouge-score
 transformers[torch]
 accelerate>=0.26.0
+scikit-learn
 datasets
